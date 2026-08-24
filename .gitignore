@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/
+.env
+*.log
+.DS_Store
+coverage/
+*.key
+*.pem
+wallets.encrypted.json
